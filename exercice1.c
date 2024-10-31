@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(){
     int n,i,a;
     printf("Entrer n : ");
@@ -16,5 +16,6 @@ int main(){
     if (a=1){
         printf("%d n'est pas un nombre premier",n);
     }
+    printf("\nbravo pour ta participation");
     return 0;
 }
